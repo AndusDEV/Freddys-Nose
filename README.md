@@ -1,2 +1,2 @@
 # Freddys-Nose
- Freddy makes HONK HONK
+ Freddy makes HONK HONK. That's basically it.
